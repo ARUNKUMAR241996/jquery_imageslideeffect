@@ -1,0 +1,17 @@
+#wrapper{
+
+	width:1080px;
+	
+	margin: 0 auto;
+}
+.one{
+
+	height:220px;
+}
+.img{
+	text-align: center;
+}
+.menu{
+	display: inline-flex;
+	list-style:none;
+}
